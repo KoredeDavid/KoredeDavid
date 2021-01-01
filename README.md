@@ -25,8 +25,7 @@
   -	Familiar with server tools like Microsoft Azure, CLI, REST API, PostgreSQL.
   -	Excellent UI/UX and Front-End skill with HTML5, CSS3, JavaScript, jQuery, Bootstrap and AJAX.
   -	Version Control Tools: Git, GitHub.
-  -	Data Analytics and Visualization: Microsoft Excel, Microsoft PowerPoint.
-  -	Site speed and optimization.
+  -	Data Analytics and Visualization: Microsoft Excel, Microsoft PowerPoint. 
   -	Good team work, communication and presentation skills.
 
 <!--
