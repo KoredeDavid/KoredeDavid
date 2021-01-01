@@ -1,14 +1,12 @@
 ### Hi there 👋 I am 👑KoredeDavid a FullStack Web Developer👨🏾‍💻 from Nigeria🌟
 
-
-
 ### 🎨 Here are some of my works 🎨:
-  1. <a href="https://concealme.heroku.com"> Conceal </a> : Here is a website that can allow you to receive anonymous messages from your friends. It uses
+  - <a href="https://concealme.heroku.com"> Conceal </a> : Here is a website that can allow you to receive anonymous messages from your friends. It uses
   Telegram API to enable users view messages on Telegram. It uses Python (Django), Microsoft Azure and
   PostgreSQL for the backend, manipulates DOM elements with JavaScript (jQuery) and also designed with
   HTML and CSS(Bootstrap).
 
-  2. <a href="https://iedutech.herokuapp.com"> iEdutech </a>: This is just a simple project to showcase my Front End skills with JavaScript and Ajax requests. Django was used     to develop the Back-End and it stores users favourite courses securely using sessions stored in the web browser and on the PostgreSQL server
+  - <a href="https://iedutech.herokuapp.com"> iEdutech </a>: This is just a simple project to showcase my Front End skills with JavaScript and Ajax requests. Django was used     to develop the Back-End and it stores users favourite courses securely using sessions stored in the web browser and on the PostgreSQL server
 
 ### 🚧 Work in progress 🚧:  
   - Attendance Management System: At my local assembly this in-house app should help to mark the
@@ -22,7 +20,14 @@
 
 #### ⚡ Fun fact: I am accountant and I love figures
  
-
+### 🛠️ SKILLS 🛠️: 
+  -	Back-End skills – Ability to use Python, Django and Django Rest Framework.
+  -	Familiar with server tools like Microsoft Azure, CLI, REST API, PostgreSQL.
+  -	Excellent UI/UX and Front-End skill with HTML5, CSS3, JavaScript, jQuery, Bootstrap and AJAX.
+  -	Version Control Tools: Git, GitHub.
+  -	Data Analytics and Visualization: Microsoft Excel, Microsoft PowerPoint.
+  -	Site speed and optimization.
+  -	Good team work, communication and presentation skills.
 
 <!--
 **KoredeDavid/KoredeDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
