@@ -16,7 +16,7 @@
 ### 🤙🏾 How to reach me 🤙🏾: 
   - You can reach me on  <a target="_blank" href="https://twitter.com/KoredeDavid">Twitter</a>,  <a target="_blank" href="https://linkedin.com/in/korededavid">LinkedIn</a>, as I am open to freelance projects
 
-#### 👯 I’m looking to collaborate on any project regarding web develeopment using technologies like Python or JavaScript and I am open to other technologies too.
+#### 👯 I’m looking to collaborate on any project regarding web development using technologies like Python or JavaScript and I am open to other technologies too.
 
 #### ⚡ Fun fact: I am accountant and I love figures
  
