@@ -1,7 +1,7 @@
 ### Hi there 👋 I am 👑KoredeDavid a FullStack Web Developer👨🏾‍💻 from Nigeria🌟
 
 ### 🎨 Here are some of my works 🎨:
-  - <a href="https://concealme.heroku.com"> Conceal </a> : Here is a website that can allow you to receive anonymous messages from your friends. It uses
+  - <a href="https://concealme.herokuapp.com"> Conceal </a> : Here is a website that can allow you to receive anonymous messages from your friends. It uses
   Telegram API to enable users view messages on Telegram. It uses Python (Django), Microsoft Azure and
   PostgreSQL for the backend, manipulates DOM elements with JavaScript (jQuery) and also designed with
   HTML and CSS(Bootstrap).
