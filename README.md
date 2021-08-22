@@ -6,6 +6,8 @@
   PostgreSQL for the backend, manipulates DOM elements with JavaScript (jQuery) and also designed with
   HTML and CSS(Bootstrap).
 
+  - <a href="https://zuriblog.netlify.com"> Zuri </a> :  I created this landing page with pure CSS and JavaScript(jQuery)
+
   - <a href="https://iedutech.herokuapp.com"> iEdutech </a>: This is just a simple project to showcase my Front End skills with JavaScript and Ajax requests. Django was used     to develop the Back-End and it stores users favourite courses securely using sessions stored in the web browser and on the PostgreSQL server
 
 ### 🚧 Work in progress 🚧:  
