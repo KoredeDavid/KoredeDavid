@@ -11,6 +11,8 @@
   - <a href="https://iedutech.herokuapp.com"> iEdutech </a>: This is just a simple project to showcase my Front End skills with JavaScript and Ajax requests. Django was used     to develop the Back-End and it stores users favourite courses securely using sessions stored in the web browser and on the PostgreSQL server
 
 ### 🚧 Work in progress 🚧:  
+  - <a href="https://resend.herokuapp.com>reSend</a>: The reSend app is a one-stop fintech app with the basic functionalities of making and managing transactional payments digitally.
+
   - Attendance Management System: At my local assembly this in-house app should help to mark the
      attendance of children. It uses Python (Django) for the backend with HTML, CSS and JavaScript for good
      visualisation of data.
