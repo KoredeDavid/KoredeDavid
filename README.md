@@ -7,15 +7,6 @@
   PostgreSQL for the backend, manipulates DOM elements with JavaScript (jQuery) and also designed with
   HTML and CSS(Bootstrap).
 
-  - <a href="https://zuriblog.netlify.com"> Zuri </a> :  I created this landing page with pure CSS and JavaScript(jQuery)
-
-### 🚧 Work in progress 🚧:  
-  - <a href="https://resendng.herokuapp.com" target="_blank">reSend</a>: The reSend app is a one-stop fintech app with the basic functionalities of making and managing transactional payments digitally.
-
-  - Attendance Management System: At my local assembly this in-house app should help to mark the
-     attendance of children. It uses Python (Django) for the backend with HTML, CSS and JavaScript for good
-     visualisation of data.
-
 ### 🤙🏾 How to reach me 🤙🏾: 
   - You can reach me on  <a target="_blank" href="https://twitter.com/KoredeDavid">Twitter</a>,  <a target="_blank" href="https://linkedin.com/in/korededavid">LinkedIn</a>, as I am open to freelance projects
 
