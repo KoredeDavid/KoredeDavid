@@ -12,7 +12,7 @@
 
 #### 👯 I’m looking to collaborate on any project regarding web development using technologies like Python or JavaScript and I am open to other technologies too.
 
-#### ⚡ Fun fact: I am accountant and I love figures
+#### ⚡ Fun fact: I am an accountant and I love figures.
  
 ### 🛠️ SKILLS 🛠️: 
   -	Back-End skills – Ability to use Python, Django and Django Rest Framework.
