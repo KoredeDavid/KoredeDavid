@@ -17,7 +17,7 @@
 ### 🛠️ SKILLS 🛠️: 
   -	Back-End skills – Ability to use Python, Django and Django Rest Framework.
   -	Familiar with server tools like Heroki, CLI, REST API, PostgreSQL.
-  -	Excellent UI/UX and Front-End skill with HTML5, CSS3, JavaScript, jQuery, Bootstrap and AJAX.
+  -	HTML5, CSS3, JavaScript, jQuery, Bootstrap and AJAX.
   -	Version Control Tools: Git, GitHub.
   -	Data Analytics and Visualization: Microsoft Excel, Microsoft PowerPoint. 
   -	Good team work, communication and presentation skills.
