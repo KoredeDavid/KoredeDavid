@@ -19,8 +19,6 @@
   -	Familiar with server tools like Heroki, CLI, REST API, PostgreSQL.
   -	HTML5, CSS3, JavaScript, jQuery, Bootstrap and AJAX.
   -	Version Control Tools: Git, GitHub.
-  -	Data Analytics and Visualization: Microsoft Excel, Microsoft PowerPoint. 
-  -	Good team work, communication and presentation skills.
 
 <!--
 **KoredeDavid/KoredeDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
