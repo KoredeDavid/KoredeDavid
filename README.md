@@ -1,8 +1,8 @@
 ### Hi there 👋 I am 👑KoredeDavid a BackEnd Web Developer👨🏾‍💻
 
 ### 🎨 Here are some of my works 🎨:
-  - <a href="https://iedutech.herokuapp.com"> iEdutech </a>: This is an EduTech website that contains popular courses embedded using YouTube API. Django was used to develop the Back-End and it stores users favourite courses securely using sessions stored in the web browser and on the PostgreSQL server. Tools for the frontend are JavaScript, CSS and Bootstrap
-  - <a href="https://concealme.herokuapp.com"> Conceal </a> : Here is a website that can allow you to receive anonymous messages from your friends. It uses
+  - <a href="https://iedutech.up.railway.app/"> iEdutech </a>: This is an EduTech website that contains popular courses embedded using YouTube API. Django was used to develop the Back-End and it stores users favourite courses securely using sessions stored in the web browser and on the PostgreSQL server. Tools for the frontend are JavaScript, CSS and Bootstrap
+  - <a href="https://concealme.up.railway.app/"> Conceal </a> : Here is a website that can allow you to receive anonymous messages from your friends. It uses
   Telegram API to enable users view messages on Telegram. It uses Python (Django), Heroku and
   PostgreSQL for the backend, manipulates DOM elements with JavaScript and also designed with
   HTML and CSS(Bootstrap).
