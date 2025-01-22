@@ -10,7 +10,7 @@
  
 ### 🛠️ SKILLS 🛠️: 
   -	Back-End skills – Ability to use Python, Django and Django Rest Framework.
-  -	Familiar with server tools like Heroki, CLI, REST API, and PostgreSQL.
+  -	Familiar with server tools like Heroku, CLI, Docker, Ubuntu, Redis and PostgreSQL.
   -	HTML5, CSS3, JavaScript, jQuery, Bootstrap.
 
 
